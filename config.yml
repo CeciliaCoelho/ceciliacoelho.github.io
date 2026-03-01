@@ -68,7 +68,7 @@ params:
 
     socialIcons:
         - name: CV
-          url: cv.pdf
+          url: cv1.pdf
         - name: Email
           url: mailto:coelhomc@hsu-hh.de
         - name: Location
